@@ -78,6 +78,10 @@ a.internal em {
 	margin-left: 400px;
 }
 
+.rst-versions {
+	width: 400px;
+}
+
 .wy-nav-content {
 	max-width: 100%;
 }
