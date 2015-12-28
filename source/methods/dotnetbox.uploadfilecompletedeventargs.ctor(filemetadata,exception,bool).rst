@@ -1,0 +1,24 @@
+:index:`UploadFileCompletedEventArgs.UploadFileCompletedEventArgs Constructor (FileMetadata, Exception, bool)`
+==============================================================================================================
+
+Creates a new instance of the UploadFileCompletedEventArgs class.
+
+Syntax
+------
+
+::
+
+	UploadFileCompletedEventArgs uploadFileCompletedEventArgs = new UploadFileCompletedEventArgs(FileMetadata response, Exception error, bool cancelled)
+
+Parameters
+----------
+
+**response**
+	:doc:`DotNetBox.FileMetadata </classes/dotnetbox.filemetadata>` Metadata of the uploaded file.
+
+**error**
+	*System.Exception* Error, if occured.
+
+**cancelled**
+	*System.Boolean* Whether the operation was cancelled or not.
+

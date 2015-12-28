@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'DotNetBox'
-copyright = '2015, nicoco007'
+copyright = '2015 nicoco007'
 author = 'nicoco007'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -284,3 +284,11 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+# CUSTOM BS YAY
+
+highlight_language = 'csharp'
+
+def setup(app):
+	app.add_stylesheet('custom.css')
+	app.add_javascript('script.js')

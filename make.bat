@@ -5,6 +5,7 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
+set DOCEXE="C:\Users\Nicolas Gnyra\Documents\Visual Studio 2015\Projects\Documentation\Documentation\bin\Debug\Documentation.exe"
 set BUILDDIR=build
 set ALLSPHINXOPTS=-d %BUILDDIR%/doctrees %SPHINXOPTS% source
 set I18NSPHINXOPTS=%SPHINXOPTS% source
@@ -44,6 +45,20 @@ if "%1" == "help" (
 if "%1" == "clean" (
 	for /d %%i in (%BUILDDIR%\*) do rmdir /q /s %%i
 	del /q /s %BUILDDIR%\*
+	goto end
+)
+
+if "%1" == "readxml" (
+	%DOCEXE%
+	goto end
+)
+
+if "%1" == "runall" (
+	make.bat clean
+	make.bat readxml
+	echo.
+	echo.
+	make.bat html
 	goto end
 )
 

@@ -1,0 +1,118 @@
+/* override table width restrictions */
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal;
+}
+.wy-table-responsive {
+    margin-bottom: 24px;
+    max-width: 100%;
+    overflow: visible;
+}
+
+colgroup {
+	display: none;
+}
+
+/* remove black header border on tables */
+.wy-table thead th, .rst-content table.docutils thead th, .rst-content table.field-list thead th {
+	border-left: 1px solid #e1e4e5;
+}
+
+/* italic first links in certain sections */
+a.internal em {
+	font-style: normal;
+}
+
+.section#parameters dd > *:first-child em {
+	font-style: italic;
+}
+
+.section#returns p > *:first-child em {
+	font-style: italic;
+}
+
+/* lighter header color */
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+	color: #777;
+}
+
+/* better links */
+.document a {
+	color: #404040;
+	border-bottom: 1px dotted #404040;
+}
+
+.document a:hover {
+	color: #808080;
+	border-bottom: 1px solid #808080;
+}
+
+.document a:visited {
+	color: #404040;
+	border-bottom: 1px dotted #404040;
+}
+
+.document a:visited:hover {
+	color: #808080;
+	border-bottom: 1px solid #808080;
+}
+
+/* bigger sidebar */
+
+.wy-nav-side {
+	width: 400px;
+}
+
+.wy-side-scroll {
+	width: 420px;
+}
+
+.wy-side-nav-search {
+	width: 400px;
+}
+
+.wy-menu-vertical {
+	width: 400px;
+}
+
+.wy-nav-content-wrap {
+	margin-left: 400px;
+}
+
+.wy-nav-content {
+	max-width: 100%;
+}
+
+/* genindex stuff */
+.rst-content dl:not(.docutils) dt {
+	background: none;
+	border-top: none;
+	display: block;
+	font-size: 100%;
+}
+
+.rst-content dl:not(.docutils) dl dt {
+	border: none;
+	background: none;
+}
+
+.rst-content dl:not(.docutils) dl dt:before {
+	content: "\21b3";
+	color: #404040;
+}
+
+.rst-content dl dt {
+	font-weight: normal;
+}
+
+.genindex-jumpbox {
+	margin-bottom: 20px;
+}
+
+.wy-breadcrumbs li {
+	padding-right: 6px;
+}
+
+.wy-breadcrumbs li:last-child {
+	padding-right: 0;
+}
+
