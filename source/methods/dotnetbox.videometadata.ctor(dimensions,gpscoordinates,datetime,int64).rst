@@ -1,5 +1,7 @@
-:index:`VideoMetadata.VideoMetadata Constructor (Dimensions, GpsCoordinates, DateTime?, Int64?)`
-================================================================================================
+:orphan:
+
+:index:`VideoMetadata Constructor (Dimensions, GpsCoordinates, DateTime?, Int64?)`
+==================================================================================
 
 Initializes a new PhotoMetadata class.
 

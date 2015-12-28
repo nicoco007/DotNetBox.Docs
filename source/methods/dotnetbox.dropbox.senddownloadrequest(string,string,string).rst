@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Dropbox.SendDownloadRequest Method (string, string, string)`
 ====================================================================
 

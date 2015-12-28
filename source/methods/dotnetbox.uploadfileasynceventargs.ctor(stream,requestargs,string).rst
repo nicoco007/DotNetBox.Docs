@@ -1,5 +1,7 @@
-:index:`UploadFileAsyncEventArgs.UploadFileAsyncEventArgs Constructor (Stream, RequestArgs, string)`
-====================================================================================================
+:orphan:
+
+:index:`UploadFileAsyncEventArgs Constructor (Stream, RequestArgs, string)`
+===========================================================================
 
 Creates a new instance of the UploadFileEventArgs class.
 

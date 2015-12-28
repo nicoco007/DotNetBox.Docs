@@ -1,5 +1,7 @@
-:index:`Users.Users Constructor (string)`
-=========================================
+:orphan:
+
+:index:`Users Constructor (string)`
+===================================
 
 Initializes a new Users class.
 

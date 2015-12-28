@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`LaunchEmptyResult.FromJson Method (JObject)`
 ====================================================
 

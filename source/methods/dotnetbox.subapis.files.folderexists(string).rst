@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.FolderExists Method (string)`
 ===========================================
 

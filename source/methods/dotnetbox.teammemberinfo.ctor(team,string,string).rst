@@ -1,5 +1,7 @@
-:index:`TeamMemberInfo.TeamMemberInfo Constructor (Team, string, string)`
-=========================================================================
+:orphan:
+
+:index:`TeamMemberInfo Constructor (Team, string, string)`
+==========================================================
 
 Creates a new instance of the TeamMemberInfo class.
 

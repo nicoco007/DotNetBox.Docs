@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ShareFolderLaunch.ToString Method`
 ==========================================
 

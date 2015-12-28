@@ -1,5 +1,7 @@
-:index:`PhotoMetadata.PhotoMetadata Constructor (Dimensions, GpsCoordinates, DateTime?)`
-========================================================================================
+:orphan:
+
+:index:`PhotoMetadata Constructor (Dimensions, GpsCoordinates, DateTime?)`
+==========================================================================
 
 Initializes a new PhotoMetadata class.
 

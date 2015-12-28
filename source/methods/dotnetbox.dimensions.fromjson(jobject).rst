@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Dimensions.FromJson Method (JObject)`
 =============================================
 

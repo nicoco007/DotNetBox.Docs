@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.RemoveFolderMember Method (string, string, bool)`
 =================================================================
 

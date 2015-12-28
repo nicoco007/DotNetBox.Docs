@@ -1,5 +1,7 @@
-:index:`ListFolderLongpollResult.ListFolderLongpollResult Constructor (bool, Int32?)`
-=====================================================================================
+:orphan:
+
+:index:`ListFolderLongpollResult Constructor (bool, Int32?)`
+============================================================
 
 Creates a new instance of the ListFolderLongpollResult class.
 

@@ -1,5 +1,7 @@
-:index:`Dropbox.Dropbox Constructor (string)`
-=============================================
+:orphan:
+
+:index:`Dropbox Constructor (string)`
+=====================================
 
 Creates a new instance of the Dropbox class.
 

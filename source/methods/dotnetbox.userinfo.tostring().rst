@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`UserInfo.ToString Method`
 =================================
 

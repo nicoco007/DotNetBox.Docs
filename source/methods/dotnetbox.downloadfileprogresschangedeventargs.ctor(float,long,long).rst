@@ -1,5 +1,7 @@
-:index:`DownloadFileProgressChangedEventArgs.DownloadFileProgressChangedEventArgs Constructor (float, long, long)`
-==================================================================================================================
+:orphan:
+
+:index:`DownloadFileProgressChangedEventArgs Constructor (float, long, long)`
+=============================================================================
 
 Creates a new instance of the DownloadFileProgressChangedEventArgs class.
 

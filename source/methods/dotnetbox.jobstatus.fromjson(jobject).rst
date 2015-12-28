@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`JobStatus.FromJson Method (JObject)`
 ============================================
 

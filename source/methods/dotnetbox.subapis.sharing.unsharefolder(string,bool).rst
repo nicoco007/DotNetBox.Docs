@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.UnshareFolder Method (string, bool)`
 ====================================================
 

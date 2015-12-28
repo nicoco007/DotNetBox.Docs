@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.DownloadSharedLinkFile Method (string, string, string, string)`
 ===============================================================================
 

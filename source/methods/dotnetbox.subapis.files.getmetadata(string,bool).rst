@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.GetMetadata Method (string, bool)`
 ================================================
 

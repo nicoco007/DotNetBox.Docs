@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`SharedFolderMetadata.ToString Method`
 =============================================
 

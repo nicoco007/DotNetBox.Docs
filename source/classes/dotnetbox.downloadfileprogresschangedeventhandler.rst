@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`DownloadFileProgressChangedEventHandler Delegate (DownloadFileProgressChangedEventArgs)`
 ================================================================================================
 

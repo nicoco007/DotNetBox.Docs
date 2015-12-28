@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`UploadFileProgressChangedEventHandler Delegate (UploadFileProgressChangedEventArgs)`
 ============================================================================================
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`DropboxClient Class`
 ============================
 
@@ -6,12 +8,12 @@ Main DotNetBox class. The DropboxClient class has wrapper functions and all call
 Constructors
 ------------
 
-========================================================================================================= ==================================================
-Name                                                                                                      Description                                        
-========================================================================================================= ==================================================
-:doc:`DropboxClient.DropboxClient(string) </methods/dotnetbox.dropboxclient.ctor(string)>`                Creates a new instance of the DropboxClient class. 
-:doc:`DropboxClient.DropboxClient(string, string) </methods/dotnetbox.dropboxclient.ctor(string,string)>` Creates a new instance of the DropboxClient class. 
-========================================================================================================= ==================================================
+=========================================================================================== ==================================================
+Name                                                                                        Description                                        
+=========================================================================================== ==================================================
+:doc:`DropboxClient(string) </methods/dotnetbox.dropboxclient.ctor(string)>`                Creates a new instance of the DropboxClient class. 
+:doc:`DropboxClient(string, string) </methods/dotnetbox.dropboxclient.ctor(string,string)>` Creates a new instance of the DropboxClient class. 
+=========================================================================================== ==================================================
 
 Properties
 ----------

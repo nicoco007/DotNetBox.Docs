@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ListFolderLongpollResult.FromJson Method (JObject)`
 ===========================================================
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`PhotoMetadata.ToString Method`
 ======================================
 

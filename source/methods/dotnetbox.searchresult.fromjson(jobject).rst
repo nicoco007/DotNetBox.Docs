@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`SearchResult.FromJson Method (JObject)`
 ===============================================
 

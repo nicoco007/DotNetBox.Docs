@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`AuthorizeResponse.FromJson Method (JObject)`
 ====================================================
 

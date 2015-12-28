@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.ListFolder Method (string, bool, bool, bool)`
 ===========================================================
 

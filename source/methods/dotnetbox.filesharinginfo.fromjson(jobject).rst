@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`FileSharingInfo.FromJson Method (JObject)`
 ==================================================
 

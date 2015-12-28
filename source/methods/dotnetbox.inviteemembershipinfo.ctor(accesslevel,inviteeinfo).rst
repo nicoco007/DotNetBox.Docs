@@ -1,5 +1,7 @@
-:index:`InviteeMembershipInfo.InviteeMembershipInfo Constructor (AccessLevel, InviteeInfo)`
-===========================================================================================
+:orphan:
+
+:index:`InviteeMembershipInfo Constructor (AccessLevel, InviteeInfo)`
+=====================================================================
 
 Creates a new instance of the InviteeMembershipInfo class.
 

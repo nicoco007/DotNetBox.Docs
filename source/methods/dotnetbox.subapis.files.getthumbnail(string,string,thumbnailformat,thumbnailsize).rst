@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.GetThumbnail Method (string, string, ThumbnailFormat, ThumbnailSize)`
 ===================================================================================
 

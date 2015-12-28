@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ListFolderResult.FromJson Method (JObject)`
 ===================================================
 

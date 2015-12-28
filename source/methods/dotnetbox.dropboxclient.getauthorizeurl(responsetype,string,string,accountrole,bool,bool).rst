@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`DropboxClient.GetAuthorizeUrl Method (ResponseType, string, string, AccountRole, bool, bool)`
 =====================================================================================================
 

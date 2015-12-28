@@ -1,5 +1,7 @@
-:index:`UploadFileProgressChangedEventArgs.UploadFileProgressChangedEventArgs Constructor (float, long, long)`
-==============================================================================================================
+:orphan:
+
+:index:`UploadFileProgressChangedEventArgs Constructor (float, long, long)`
+===========================================================================
 
 Creates a new instance of the UploadFileProgressChangedEventArgs class.
 

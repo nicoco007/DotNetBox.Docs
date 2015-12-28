@@ -1,5 +1,7 @@
-:index:`InviteeInfo.InviteeInfo Constructor (string)`
-=====================================================
+:orphan:
+
+:index:`InviteeInfo Constructor (string)`
+=========================================
 
 Creates a new instance of the InviteeInfo class.
 

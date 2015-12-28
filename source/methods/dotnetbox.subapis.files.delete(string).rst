@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.Delete Method (string)`
 =====================================
 

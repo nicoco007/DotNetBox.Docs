@@ -1,5 +1,7 @@
-:index:`UserMembershipInfo.UserMembershipInfo Constructor (AccessLevel, UserInfo)`
-==================================================================================
+:orphan:
+
+:index:`UserMembershipInfo Constructor (AccessLevel, UserInfo)`
+===============================================================
 
 Creates a new instance of the UserMembershipInfo class.
 

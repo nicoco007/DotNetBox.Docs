@@ -1,5 +1,7 @@
-:index:`SearchResult.SearchResult Constructor (SearchMatch[], bool, int)`
-=========================================================================
+:orphan:
+
+:index:`SearchResult Constructor (SearchMatch[], bool, int)`
+============================================================
 
 Creates a new instance of the SearchResult class.
 

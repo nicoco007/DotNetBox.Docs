@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.Upload Method (string, string, WriteMode, bool, bool, string)`
 ============================================================================
 

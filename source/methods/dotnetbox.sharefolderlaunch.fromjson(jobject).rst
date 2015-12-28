@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ShareFolderLaunch.FromJson Method (JObject)`
 ====================================================
 

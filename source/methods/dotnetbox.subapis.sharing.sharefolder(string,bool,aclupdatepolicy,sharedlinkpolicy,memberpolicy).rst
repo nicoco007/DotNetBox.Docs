@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.ShareFolder Method (string, bool, AclUpdatePolicy, SharedLinkPolicy, MemberPolicy)`
 ===================================================================================================
 

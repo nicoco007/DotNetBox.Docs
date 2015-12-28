@@ -1,5 +1,7 @@
-:index:`ListSharedFoldersResult.ListSharedFoldersResult Constructor (SharedFolderMetadata[], string)`
-=====================================================================================================
+:orphan:
+
+:index:`ListSharedFoldersResult Constructor (SharedFolderMetadata[], string)`
+=============================================================================
 
 Creates a new instance of the ListSharedFoldersResult class.
 

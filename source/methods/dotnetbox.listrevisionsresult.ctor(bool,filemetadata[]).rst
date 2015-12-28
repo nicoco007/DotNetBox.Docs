@@ -1,5 +1,7 @@
-:index:`ListRevisionsResult.ListRevisionsResult Constructor (bool, FileMetadata[])`
-===================================================================================
+:orphan:
+
+:index:`ListRevisionsResult Constructor (bool, FileMetadata[])`
+===============================================================
 
 Creates a new instance of the ListRevisionsResult class.
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ShareFolderJobStatus.FromJson Method (JObject)`
 =======================================================
 

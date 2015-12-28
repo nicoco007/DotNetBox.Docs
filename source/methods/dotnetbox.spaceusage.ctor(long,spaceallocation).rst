@@ -1,5 +1,7 @@
-:index:`SpaceUsage.SpaceUsage Constructor (long, SpaceAllocation)`
-==================================================================
+:orphan:
+
+:index:`SpaceUsage Constructor (long, SpaceAllocation)`
+=======================================================
 
 Creates a new instance of the SpaceUsage class.
 

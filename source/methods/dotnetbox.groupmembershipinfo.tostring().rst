@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`GroupMembershipInfo.ToString Method`
 ============================================
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.Restore Method (string, string)`
 ==============================================
 

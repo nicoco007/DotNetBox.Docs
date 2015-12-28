@@ -1,5 +1,7 @@
-:index:`SharedFolderMetadata.SharedFolderMetadata Constructor (string, string, AccessLevel, bool, FolderPolicy, string)`
-========================================================================================================================
+:orphan:
+
+:index:`SharedFolderMetadata Constructor (string, string, AccessLevel, bool, FolderPolicy, string)`
+===================================================================================================
 
 Creates a new instance of the SharedFolderMetadata class.
 

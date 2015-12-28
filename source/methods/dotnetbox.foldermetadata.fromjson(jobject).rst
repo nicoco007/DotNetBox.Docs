@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`FolderMetadata.FromJson Method (JObject)`
 =================================================
 

@@ -1,5 +1,7 @@
-:index:`Metadata.Metadata Constructor (string, string, string, bool, bool, bool)`
-=================================================================================
+:orphan:
+
+:index:`Metadata Constructor (string, string, string, bool, bool, bool)`
+========================================================================
 
 Initializes a new instance of the Metadata class.
 

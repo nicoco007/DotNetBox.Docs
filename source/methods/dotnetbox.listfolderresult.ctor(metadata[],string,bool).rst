@@ -1,5 +1,7 @@
-:index:`ListFolderResult.ListFolderResult Constructor (Metadata[], string, bool)`
-=================================================================================
+:orphan:
+
+:index:`ListFolderResult Constructor (Metadata[], string, bool)`
+================================================================
 
 Creates a new instance of the ListFolderResult class.
 

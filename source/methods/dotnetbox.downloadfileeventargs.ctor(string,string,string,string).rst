@@ -1,5 +1,7 @@
-:index:`DownloadFileEventArgs.DownloadFileEventArgs Constructor (string, string, string, string)`
-=================================================================================================
+:orphan:
+
+:index:`DownloadFileEventArgs Constructor (string, string, string, string)`
+===========================================================================
 
 Creates a new instance of the DownloadFileEventArgs class.
 

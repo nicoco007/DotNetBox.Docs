@@ -1,5 +1,7 @@
-:index:`FileMetadata.FileMetadata Constructor (string, string, string, DateTime, DateTime, string, long, string, MediaInfo, FileSharingInfo)`
-=============================================================================================================================================
+:orphan:
+
+:index:`FileMetadata Constructor (string, string, string, DateTime, DateTime, string, long, string, MediaInfo, FileSharingInfo)`
+================================================================================================================================
 
 Initializes a new instance of the FileMetadata class.
 

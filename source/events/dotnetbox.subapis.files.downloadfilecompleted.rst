@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`DotNetBox.SubApis.Files.DownloadFileCompleted Event`
 ============================================================
 

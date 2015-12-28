@@ -1,5 +1,7 @@
-:index:`FileLinkMetadata.FileLinkMetadata Constructor (string, string, LinkPermissions, DateTime, DateTime, string, long, string, DateTime?, string, TeamMemberInfo, Team)`
-===========================================================================================================================================================================
+:orphan:
+
+:index:`FileLinkMetadata Constructor (string, string, LinkPermissions, DateTime, DateTime, string, long, string, DateTime?, string, TeamMemberInfo, Team)`
+==========================================================================================================================================================
 
 
 

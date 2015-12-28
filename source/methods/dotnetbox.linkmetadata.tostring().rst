@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`LinkMetadata.ToString Method`
 =====================================
 

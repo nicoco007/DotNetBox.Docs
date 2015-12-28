@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.GetPreview Method (string, string)`
 =================================================
 

@@ -1,5 +1,7 @@
-:index:`ShareFolderJobStatus.ShareFolderJobStatus Constructor (AsyncJobStatus, SharedFolderMetadata, string)`
-=============================================================================================================
+:orphan:
+
+:index:`ShareFolderJobStatus Constructor (AsyncJobStatus, SharedFolderMetadata, string)`
+========================================================================================
 
 Creates a new instance of the ShareFolderJobStatus class.
 

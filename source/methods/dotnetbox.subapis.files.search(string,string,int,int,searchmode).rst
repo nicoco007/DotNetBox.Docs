@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.Search Method (string, string, int, int, SearchMode)`
 ===================================================================
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.UpdateFolderPolicy Method (string, AclUpdatePolicy?, SharedLinkPolicy?, MemberPolicy?)`
 =======================================================================================================
 

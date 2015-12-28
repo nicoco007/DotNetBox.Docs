@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.GetSharedFolder Method (string)`
 ================================================
 

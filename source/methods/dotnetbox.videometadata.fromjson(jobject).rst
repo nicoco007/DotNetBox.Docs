@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`VideoMetadata.FromJson Method (JObject)`
 ================================================
 

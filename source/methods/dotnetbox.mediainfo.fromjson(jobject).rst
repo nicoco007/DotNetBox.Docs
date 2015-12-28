@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`MediaInfo.FromJson Method (JObject)`
 ============================================
 

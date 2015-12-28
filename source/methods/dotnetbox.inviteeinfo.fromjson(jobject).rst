@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`InviteeInfo.FromJson Method (JObject)`
 ==============================================
 

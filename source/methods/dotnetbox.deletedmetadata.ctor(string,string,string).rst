@@ -1,5 +1,7 @@
-:index:`DeletedMetadata.DeletedMetadata Constructor (string, string, string)`
-=============================================================================
+:orphan:
+
+:index:`DeletedMetadata Constructor (string, string, string)`
+=============================================================
 
 Creates a new instance of the DeletedMetdata class.
 

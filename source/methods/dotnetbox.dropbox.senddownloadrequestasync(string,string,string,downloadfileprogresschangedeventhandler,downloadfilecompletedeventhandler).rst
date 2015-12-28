@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Dropbox.SendDownloadRequestAsync Method (string, string, string, DownloadFileProgressChangedEventHandler, DownloadFileCompletedEventHandler)`
 =====================================================================================================================================================
 

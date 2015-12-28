@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`GpsCoordinates.FromJson Method (JObject)`
 =================================================
 

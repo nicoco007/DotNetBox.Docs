@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Metadata.FromTag Method (JObject)`
 ==========================================
 

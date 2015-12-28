@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`SearchResult.ToString Method`
 =====================================
 

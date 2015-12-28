@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Dropbox.GetResponse Method (string)`
 ============================================
 

@@ -1,5 +1,7 @@
-:index:`Files.Files Constructor (string)`
-=========================================
+:orphan:
+
+:index:`Files Constructor (string)`
+===================================
 
 Initializes a new Files class.
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.ListSharedLinks Method (string, string)`
 ========================================================
 

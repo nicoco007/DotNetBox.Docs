@@ -1,5 +1,7 @@
-:index:`FolderMetadata.FolderMetadata Constructor (string, string, string, string, string, FolderSharingInfo)`
-==============================================================================================================
+:orphan:
+
+:index:`FolderMetadata Constructor (string, string, string, string, string, FolderSharingInfo)`
+===============================================================================================
 
 Initializes a new instance of the FolderMetadata class.
 

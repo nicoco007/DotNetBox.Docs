@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`LinkMetadata.FromJson Method (JObject)`
 ===============================================
 

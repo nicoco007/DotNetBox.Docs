@@ -1,5 +1,7 @@
-:index:`GroupInfo.GroupInfo Constructor (string, string, int, bool, string)`
-============================================================================
+:orphan:
+
+:index:`GroupInfo Constructor (string, string, int, bool, string)`
+==================================================================
 
 Creates a new instance of the GroupInfo class.
 

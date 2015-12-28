@@ -1,5 +1,7 @@
-:index:`AuthorizeResponse.AuthorizeResponse Constructor (string, string, string)`
-=================================================================================
+:orphan:
+
+:index:`AuthorizeResponse Constructor (string, string, string)`
+===============================================================
 
 Initializes a new AuthorizeResponse class.
 

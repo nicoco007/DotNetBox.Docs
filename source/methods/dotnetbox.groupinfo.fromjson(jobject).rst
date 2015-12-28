@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`GroupInfo.FromJson Method (JObject)`
 ============================================
 

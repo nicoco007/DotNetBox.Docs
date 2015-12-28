@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`FileSharingInfo.ToString Method`
 ========================================
 

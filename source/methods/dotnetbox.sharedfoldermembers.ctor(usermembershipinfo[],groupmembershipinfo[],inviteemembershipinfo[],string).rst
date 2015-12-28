@@ -1,5 +1,7 @@
-:index:`SharedFolderMembers.SharedFolderMembers Constructor (UserMembershipInfo[], GroupMembershipInfo[], InviteeMembershipInfo[], string)`
-===========================================================================================================================================
+:orphan:
+
+:index:`SharedFolderMembers Constructor (UserMembershipInfo[], GroupMembershipInfo[], InviteeMembershipInfo[], string)`
+=======================================================================================================================
 
 Creates a new instance of the SharedFolderMembers class.
 

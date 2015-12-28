@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ListRevisionsResult.FromJson Method (JObject)`
 ======================================================
 

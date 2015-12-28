@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.GetSharedLinkMetadata Method (string, string, string)`
 ======================================================================
 

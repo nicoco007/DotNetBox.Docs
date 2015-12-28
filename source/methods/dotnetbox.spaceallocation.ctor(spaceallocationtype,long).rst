@@ -1,5 +1,7 @@
-:index:`SpaceAllocation.SpaceAllocation Constructor (SpaceAllocationType, long)`
-================================================================================
+:orphan:
+
+:index:`SpaceAllocation Constructor (SpaceAllocationType, long)`
+================================================================
 
 Creates a new instance of the SpaceAllocation class.
 

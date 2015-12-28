@@ -1,5 +1,7 @@
-:index:`ListSharedLinksResult.ListSharedLinksResult Constructor (LinkMetadata[], bool, string)`
-===============================================================================================
+:orphan:
+
+:index:`ListSharedLinksResult Constructor (LinkMetadata[], bool, string)`
+=========================================================================
 
 Creates a new instance of the ListSharedLinksResult class.
 

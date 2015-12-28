@@ -1,5 +1,7 @@
-:index:`JobStatus.JobStatus Constructor (AsyncJobStatus, string)`
-=================================================================
+:orphan:
+
+:index:`JobStatus Constructor (AsyncJobStatus, string)`
+=======================================================
 
 Creates a new instance of the JobStatus class.
 

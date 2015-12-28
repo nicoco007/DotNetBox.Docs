@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`DownloadFileCompletedEventHandler Delegate (DownloadFileCompletedEventArgs)`
 ====================================================================================
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`SpaceUsage.FromJson Method (JObject)`
 =============================================
 

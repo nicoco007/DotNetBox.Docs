@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.TransferFolder Method (string, string)`
 =======================================================
 

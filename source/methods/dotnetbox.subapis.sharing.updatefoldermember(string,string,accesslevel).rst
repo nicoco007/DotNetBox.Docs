@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.UpdateFolderMember Method (string, string, AccessLevel)`
 ========================================================================
 

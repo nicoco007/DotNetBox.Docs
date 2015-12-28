@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.ModifySharedLinkSettings Method (string, RequestedVisibility?, string, DateTime?)`
 ==================================================================================================
 

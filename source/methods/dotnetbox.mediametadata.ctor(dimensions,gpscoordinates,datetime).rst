@@ -1,5 +1,7 @@
-:index:`MediaMetadata.MediaMetadata Constructor (Dimensions, GpsCoordinates, DateTime?)`
-========================================================================================
+:orphan:
+
+:index:`MediaMetadata Constructor (Dimensions, GpsCoordinates, DateTime?)`
+==========================================================================
 
 Initializes a new MediaMetadata class.
 

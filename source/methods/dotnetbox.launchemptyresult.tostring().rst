@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`LaunchEmptyResult.ToString Method`
 ==========================================
 

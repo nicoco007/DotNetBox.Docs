@@ -1,5 +1,7 @@
-:index:`FullAccount.FullAccount Constructor (string, Name, string, string, string, bool, AccountType, string)`
-==============================================================================================================
+:orphan:
+
+:index:`FullAccount Constructor (string, Name, string, string, string, bool, AccountType, string)`
+==================================================================================================
 
 Creates a new instance of the FullAccount class.
 

@@ -1,5 +1,7 @@
-:index:`Dimensions.Dimensions Constructor (long, long)`
-=======================================================
+:orphan:
+
+:index:`Dimensions Constructor (long, long)`
+============================================
 
 Creates a new instance of the Dimensions class.
 

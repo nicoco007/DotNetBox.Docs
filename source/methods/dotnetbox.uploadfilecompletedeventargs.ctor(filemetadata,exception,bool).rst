@@ -1,5 +1,7 @@
-:index:`UploadFileCompletedEventArgs.UploadFileCompletedEventArgs Constructor (FileMetadata, Exception, bool)`
-==============================================================================================================
+:orphan:
+
+:index:`UploadFileCompletedEventArgs Constructor (FileMetadata, Exception, bool)`
+=================================================================================
 
 Creates a new instance of the UploadFileCompletedEventArgs class.
 

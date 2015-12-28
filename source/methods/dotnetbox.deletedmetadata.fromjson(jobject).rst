@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`DeletedMetadata.FromJson Method (JObject)`
 ==================================================
 

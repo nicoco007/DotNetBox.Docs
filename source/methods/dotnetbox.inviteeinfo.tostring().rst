@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`InviteeInfo.ToString Method`
 ====================================
 

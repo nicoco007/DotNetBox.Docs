@@ -1,5 +1,7 @@
-:index:`UserInfo.UserInfo Constructor (string, bool, string)`
-=============================================================
+:orphan:
+
+:index:`UserInfo Constructor (string, bool, string)`
+====================================================
 
 Creates a new instance of the UserInfo class.
 

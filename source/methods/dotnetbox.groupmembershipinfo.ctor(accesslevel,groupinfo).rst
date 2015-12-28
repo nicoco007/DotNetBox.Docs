@@ -1,5 +1,7 @@
-:index:`GroupMembershipInfo.GroupMembershipInfo Constructor (AccessLevel, GroupInfo)`
-=====================================================================================
+:orphan:
+
+:index:`GroupMembershipInfo Constructor (AccessLevel, GroupInfo)`
+=================================================================
 
 Creates a new instance of the GroupMembershipInfo class.
 

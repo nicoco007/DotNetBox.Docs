@@ -1,5 +1,7 @@
-:index:`FolderMember.FolderMember Constructor (string, AccessLevel)`
-====================================================================
+:orphan:
+
+:index:`FolderMember Constructor (string, AccessLevel)`
+=======================================================
 
 Initializes a new FolderMember class.
 

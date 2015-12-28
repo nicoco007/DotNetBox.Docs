@@ -1,5 +1,7 @@
-:index:`BasicAccount.BasicAccount Constructor (string, Name, bool)`
-===================================================================
+:orphan:
+
+:index:`BasicAccount Constructor (string, Name, bool)`
+======================================================
 
 Creates a new instance of the BasicAccount class.
 

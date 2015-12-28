@@ -1,5 +1,7 @@
-:index:`FolderPolicy.FolderPolicy Constructor (AclUpdatePolicy, SharedLinkPolicy, MemberPolicy?)`
-=================================================================================================
+:orphan:
+
+:index:`FolderPolicy Constructor (AclUpdatePolicy, SharedLinkPolicy, MemberPolicy?)`
+====================================================================================
 
 Creates a new instance of the FolderPolicy class.
 

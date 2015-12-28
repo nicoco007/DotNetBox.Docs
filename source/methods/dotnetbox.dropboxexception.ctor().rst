@@ -1,5 +1,7 @@
-:index:`DropboxException.DropboxException Constructor`
-======================================================
+:orphan:
+
+:index:`DropboxException Constructor`
+=====================================
 
 Creates an empty Dropbox exception.
 

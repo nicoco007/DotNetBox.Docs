@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Users.GetSpaceUsage Method`
 ===================================
 

@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ListSharedLinksResult.FromJson Method (JObject)`
 ========================================================
 

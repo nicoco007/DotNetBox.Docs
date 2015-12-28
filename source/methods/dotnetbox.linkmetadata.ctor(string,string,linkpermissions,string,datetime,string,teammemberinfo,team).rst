@@ -1,5 +1,7 @@
-:index:`LinkMetadata.LinkMetadata Constructor (string, string, LinkPermissions, string, DateTime?, string, TeamMemberInfo, Team)`
-=================================================================================================================================
+:orphan:
+
+:index:`LinkMetadata Constructor (string, string, LinkPermissions, string, DateTime?, string, TeamMemberInfo, Team)`
+====================================================================================================================
 
 Creates a new instance of the LinkMetadata class.
 

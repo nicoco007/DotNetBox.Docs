@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.ListFolderGetLatestCursor Method (string, bool, bool, bool)`
 ==========================================================================
 

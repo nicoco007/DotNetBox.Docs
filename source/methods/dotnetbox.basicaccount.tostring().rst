@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`BasicAccount.ToString Method`
 =====================================
 

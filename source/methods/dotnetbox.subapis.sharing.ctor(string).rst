@@ -1,5 +1,7 @@
-:index:`Sharing.Sharing Constructor (string)`
-=============================================
+:orphan:
+
+:index:`Sharing Constructor (string)`
+=====================================
 
 Initializes a new Sharing class.
 

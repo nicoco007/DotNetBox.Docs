@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Files.Copy Method (string, string)`
 ===========================================
 

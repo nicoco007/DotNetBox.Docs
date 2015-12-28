@@ -1,5 +1,7 @@
-:index:`MediaInfo.MediaInfo Constructor (bool, MediaMetadata)`
-==============================================================
+:orphan:
+
+:index:`MediaInfo Constructor (bool, MediaMetadata)`
+====================================================
 
 Initializes a new MediaInfo class.
 

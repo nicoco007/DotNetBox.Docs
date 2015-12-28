@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`ListSharedFoldersResult.FromJson Method (JObject)`
 ==========================================================
 

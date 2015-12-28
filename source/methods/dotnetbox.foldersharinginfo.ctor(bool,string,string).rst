@@ -1,5 +1,7 @@
-:index:`FolderSharingInfo.FolderSharingInfo Constructor (bool, string, string)`
-===============================================================================
+:orphan:
+
+:index:`FolderSharingInfo Constructor (bool, string, string)`
+=============================================================
 
 Creates a new instance of the FolderSharingInfo class.
 

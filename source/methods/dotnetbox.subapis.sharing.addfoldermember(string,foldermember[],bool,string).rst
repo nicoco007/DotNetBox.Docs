@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`Sharing.AddFolderMember Method (string, FolderMember[], bool, string)`
 ==============================================================================
 

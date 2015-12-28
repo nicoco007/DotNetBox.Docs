@@ -1,5 +1,7 @@
-:index:`Team.Team Constructor (string, string)`
-===============================================
+:orphan:
+
+:index:`Team Constructor (string, string)`
+==========================================
 
 Creates a new instance of the Team class.
 

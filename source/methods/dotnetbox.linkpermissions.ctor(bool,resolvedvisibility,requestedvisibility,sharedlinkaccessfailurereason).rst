@@ -1,5 +1,7 @@
-:index:`LinkPermissions.LinkPermissions Constructor (bool, ResolvedVisibility?, RequestedVisibility?, SharedLinkAccessFailureReason?)`
-======================================================================================================================================
+:orphan:
+
+:index:`LinkPermissions Constructor (bool, ResolvedVisibility?, RequestedVisibility?, SharedLinkAccessFailureReason?)`
+======================================================================================================================
 
 Creates a new instance of the LinkPermissions class.
 

@@ -1,5 +1,7 @@
-:index:`GpsCoordinates.GpsCoordinates Constructor (float, float)`
-=================================================================
+:orphan:
+
+:index:`GpsCoordinates Constructor (float, float)`
+==================================================
 
 Creates a new instance of the GpsCoordinates class.
 

@@ -1,5 +1,7 @@
-:index:`Name.Name Constructor (string, string, string, string)`
-===============================================================
+:orphan:
+
+:index:`Name Constructor (string, string, string, string)`
+==========================================================
 
 Creates a new instance of the Name class.
 

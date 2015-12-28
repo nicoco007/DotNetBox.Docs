@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`UserMembershipInfo.FromJson Method (JObject)`
 =====================================================
 

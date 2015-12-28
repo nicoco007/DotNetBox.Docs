@@ -1,5 +1,7 @@
-:index:`SearchMatch.SearchMatch Constructor (SearchMatchType, Metadata)`
-========================================================================
+:orphan:
+
+:index:`SearchMatch Constructor (SearchMatchType, Metadata)`
+============================================================
 
 Creates a new instance of the SearchMatch class.
 

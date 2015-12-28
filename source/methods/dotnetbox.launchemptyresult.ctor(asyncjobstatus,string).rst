@@ -1,5 +1,7 @@
-:index:`LaunchEmptyResult.LaunchEmptyResult Constructor (AsyncJobStatus, string)`
-=================================================================================
+:orphan:
+
+:index:`LaunchEmptyResult Constructor (AsyncJobStatus, string)`
+===============================================================
 
 Creates a new instance of the LaunchEmptyResult class.
 

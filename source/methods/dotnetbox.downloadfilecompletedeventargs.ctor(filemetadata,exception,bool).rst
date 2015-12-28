@@ -1,5 +1,7 @@
-:index:`DownloadFileCompletedEventArgs.DownloadFileCompletedEventArgs Constructor (FileMetadata, Exception, bool)`
-==================================================================================================================
+:orphan:
+
+:index:`DownloadFileCompletedEventArgs Constructor (FileMetadata, Exception, bool)`
+===================================================================================
 
 Creates a new instance of the DownloadFileCompletedEventArgs class.
 

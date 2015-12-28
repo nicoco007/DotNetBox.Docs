@@ -1,3 +1,5 @@
+:orphan:
+
 :index:`FolderPolicy.ToString Method`
 =====================================
 

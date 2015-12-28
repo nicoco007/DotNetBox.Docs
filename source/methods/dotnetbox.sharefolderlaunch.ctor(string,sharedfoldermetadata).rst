@@ -1,5 +1,7 @@
-:index:`ShareFolderLaunch.ShareFolderLaunch Constructor (string, SharedFolderMetadata)`
-=======================================================================================
+:orphan:
+
+:index:`ShareFolderLaunch Constructor (string, SharedFolderMetadata)`
+=====================================================================
 
 Creates a new instance of the ShareFolderLaunch class.
 
