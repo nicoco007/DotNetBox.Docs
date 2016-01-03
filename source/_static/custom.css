@@ -36,22 +36,22 @@ a.internal em {
 }
 
 /* better links */
-.document a {
+.document a.internal em {
 	color: #404040;
 	border-bottom: 1px dotted #404040;
 }
 
-.document a:hover {
+.document a.internal:hover em {
 	color: #808080;
 	border-bottom: 1px solid #808080;
 }
 
-.document a:visited {
+.document a.internal:visited em {
 	color: #404040;
 	border-bottom: 1px dotted #404040;
 }
 
-.document a:visited:hover {
+.document a.internal:visited:hover em {
 	color: #808080;
 	border-bottom: 1px solid #808080;
 }

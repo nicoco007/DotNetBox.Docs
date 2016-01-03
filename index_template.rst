@@ -4,6 +4,9 @@ The .NET Framework for Dropbox
 ------------------------------
 
 .. toctree::
-	:caption: Getting started
+	:caption: Introduction
+	
+	gettingstarted
+	firstendpoint
 
 ##TOC##

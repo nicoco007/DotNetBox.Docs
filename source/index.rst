@@ -3,8 +3,15 @@ DotNetBox
 The .NET Framework for Dropbox
 ------------------------------
 
+**Please note:** This documentation is currently incomplete and in the process of being written. There may be missing elements, and the tutorial is far from complete.
+
+For a list of all classes, methods, and constructors, please see the :ref:`genindex`.
+
 .. toctree::
-	:caption: Getting started
+	:caption: Introduction
+	
+	gettingstarted
+	firstendpoint
 
 .. toctree::
 	:titlesonly:
