@@ -3,7 +3,7 @@
 :index:`DownloadFileCompletedEventArgs Class`
 =============================================
 
-Arguments related to the :doc:`DownloadFileCompleted </events/dotnetbox.subapis.files.downloadfilecompleted>`  event.
+Arguments for the :doc:`DownloadFileCompleted </events/dotnetbox.subapis.files.downloadfilecompleted>`  event.
 
 Constructors
 ------------
@@ -20,8 +20,8 @@ Properties
 ========= =============================================================== =============================================================
 Name      Type                                                            Description                                                   
 ========= =============================================================== =============================================================
-Cancelled System.Boolean                                                  Whether the operation has been cancelled or not.              
-Error     System.Exception                                                Error that occured while downloading the file, if applicable. 
-Response  :doc:`DotNetBox.FileMetadata </classes/dotnetbox.filemetadata>` Metadata of the downloaded file.                              
+Cancelled System.Boolean                                                  Whether the operation was cancelled or not.                   
+Error     System.Exception                                                Error that occured during the download processed, if occured. 
+Response  :doc:`DotNetBox.FileMetadata </classes/dotnetbox.filemetadata>` Metadata of the Downloaded file.                              
 ========= =============================================================== =============================================================
 

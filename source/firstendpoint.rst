@@ -8,7 +8,7 @@ You are now ready to use Dropbox's API! To start off, get the current user's inf
 
 ::
 
-	FullAccount currentAccount = client.Users.GetCurrentAccount();
+	FullAccount currentAccount = await client.Users.GetCurrentAccount();
 
 This will give you access to information such as the user's account ID, their name and email, their referral link, their account type, and more! You can use this information to display who is connected to your application.
 
@@ -16,7 +16,7 @@ You can also get the current user's space usage by calling the :doc:`GetSpaceUsa
 
 ::
 
-	SpaceUsage spaceUsage = client.Users.GetSpaceUsage();
+	SpaceUsage spaceUsage = await client.Users.GetSpaceUsage();
 
 This gives you the user's current space usage and their space quota.
 
@@ -34,12 +34,12 @@ The first endpoint we will use is the :doc:`GetMetadata() </methods/dotnetbox.su
 
 	if (client.Files.FileExists("/some_file.txt")) // check if the file exists
 	{
-		FileMetadata fileMetadata = client.Files.GetMetadata("/some_file.txt"); // get the file's metadata
+		FileMetadata fileMetadata = await client.Files.GetMetadata("/some_file.txt"); // get the file's metadata
 	}
 	
 	if (client.Files.FolderExists("/some_folder")) // check if the folder exists
 	{
-		FolderMetadata folderMetadata = client.Files.GetMetadata("/some_folder"); // get the folder's metadata
+		FolderMetadata folderMetadata = await client.Files.GetMetadata("/some_folder"); // get the folder's metadata
 	}
 
 It is important to note that all paths should start with a forwardslash (``/``) except if you are referencing the root directory, where you leave the path blank.

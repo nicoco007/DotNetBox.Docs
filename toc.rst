@@ -18,7 +18,6 @@
 	/methods/dotnetbox.subapis.files.createfolder(string)
 	/methods/dotnetbox.subapis.files.delete(string)
 	/methods/dotnetbox.subapis.files.download(string,string)
-	/methods/dotnetbox.subapis.files.downloadasync(string,string)
 	/methods/dotnetbox.subapis.files.fileexists(string)
 	/methods/dotnetbox.subapis.files.folderexists(string)
 	/methods/dotnetbox.subapis.files.getmetadata(string,bool)
@@ -33,7 +32,6 @@
 	/methods/dotnetbox.subapis.files.restore(string,string)
 	/methods/dotnetbox.subapis.files.search(string,string,int,int,searchmode)
 	/methods/dotnetbox.subapis.files.upload(string,string,writemode,bool,bool,string)
-	/methods/dotnetbox.subapis.files.uploadasync(string,string,writemode,bool,bool,string)
 
 .. toctree::
 	:titlesonly:

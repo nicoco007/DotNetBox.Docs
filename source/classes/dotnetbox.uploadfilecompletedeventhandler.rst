@@ -1,7 +1,7 @@
 :orphan:
 
-:index:`UploadFileCompletedEventHandler Delegate (DownloadFileCompletedEventArgs)`
-==================================================================================
+:index:`UploadFileCompletedEventHandler Delegate (UploadFileCompletedEventArgs)`
+================================================================================
 
 Delegate used for the :doc:`UploadFileCompleted </events/dotnetbox.subapis.files.uploadfilecompleted>`  event.
 
@@ -10,11 +10,11 @@ Syntax
 
 ::
 
-	UploadFileCompletedEventHandler(DownloadFileCompletedEventArgs e)
+	UploadFileCompletedEventHandler(UploadFileCompletedEventArgs e)
 
 Parameters
 ----------
 
 **e**
-	:doc:`DotNetBox.DownloadFileCompletedEventArgs </classes/dotnetbox.downloadfilecompletedeventargs>` Completed event arguments.
+	:doc:`DotNetBox.UploadFileCompletedEventArgs </classes/dotnetbox.uploadfilecompletedeventargs>` Completed event arguments.
 

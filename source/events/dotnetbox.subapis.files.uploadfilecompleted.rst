@@ -14,4 +14,4 @@ Syntax
 	
 	...
 	
-	Files_UploadFileCompleted(DownloadFileCompletedEventArgs e)
+	Files_UploadFileCompleted(UploadFileCompletedEventArgs e)

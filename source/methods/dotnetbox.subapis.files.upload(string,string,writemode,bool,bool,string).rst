@@ -3,7 +3,7 @@
 :index:`Files.Upload Method (string, string, WriteMode, bool, bool, string)`
 ============================================================================
 
-Create a new file with the contents provided in the request.
+Create a new file with the contents provided in the request asynchronously.
 
 Syntax
 ------
@@ -33,7 +33,3 @@ Parameters
 **rev**
 	*System.String* Overwrite if the given "rev" matches the existing file's "rev". The autorename strategy is to append the string "conflicted copy" to the file name. Only applies if WriteMode is Update.
 
-Returns
--------
-
-:doc:`DotNetBox.FileMetadata </classes/dotnetbox.filemetadata>`  Metadata of the newly uploaded file.

@@ -34,7 +34,7 @@ Using the Code flow means that the authorization web page will display, once the
 
 ::
 
-	client.AuthorizeCode("USER'S_CODE");
+	await client.AuthorizeCode("USER'S_CODE");
 
 Here is an example of a simple authorization client:
 
@@ -47,9 +47,9 @@ Here is an example of a simple authorization client:
 		Process.Start(client.GetAuthorizeUrl(ResponseType.Code)) // this will open the authorization URL in the user's default browser
 	}
 	
-	private void GetAccessTokenButton_Click()
+	private async void GetAccessTokenButton_Click()
 	{
-		client.AuthorizeCode(CodeTextBox.Text); // authorize the code the user entered in a text box
+		await client.AuthorizeCode(CodeTextBox.Text); // authorize the code the user entered in a text box
 	}
 
 You will now be able to call API endpoints.

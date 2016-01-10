@@ -5,7 +5,7 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-set DOCEXE="C:\Users\Nicolas Gnyra\Documents\Visual Studio 2015\Projects\Documentation\Documentation\bin\Debug\Documentation.exe"
+set DOCEXE="%USERPROFILE%\Documents\Visual Studio 2015\Projects\Documentation\Documentation\bin\Debug\Documentation.exe"
 set BUILDDIR=build
 set ALLSPHINXOPTS=-d %BUILDDIR%/doctrees %SPHINXOPTS% source
 set I18NSPHINXOPTS=%SPHINXOPTS% source
