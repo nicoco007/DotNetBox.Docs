@@ -3,7 +3,7 @@
 :index:`DownloadFileCompletedEventArgs Class`
 =============================================
 
-Arguments for the :doc:`DownloadFileCompleted </events/dotnetbox.subapis.files.downloadfilecompleted>`  event.
+Arguments for the DownloadFileCompleted event.
 
 Constructors
 ------------

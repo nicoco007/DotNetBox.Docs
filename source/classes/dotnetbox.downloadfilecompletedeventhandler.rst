@@ -3,7 +3,7 @@
 :index:`DownloadFileCompletedEventHandler Delegate (DownloadFileCompletedEventArgs)`
 ====================================================================================
 
-Delegate used for the :doc:`DownloadFileCompleted </events/dotnetbox.subapis.files.downloadfilecompleted>`  event.
+Delegate used for the DownloadFileCompleted event.
 
 Syntax
 ------

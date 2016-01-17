@@ -29,6 +29,7 @@
 	/methods/dotnetbox.subapis.files.listfolderlongpoll(string,int)
 	/methods/dotnetbox.subapis.files.listrevisions(string,int)
 	/methods/dotnetbox.subapis.files.move(string,string)
+	/methods/dotnetbox.subapis.files.permanentlydelete(string)
 	/methods/dotnetbox.subapis.files.restore(string,string)
 	/methods/dotnetbox.subapis.files.search(string,string,int,int,searchmode)
 	/methods/dotnetbox.subapis.files.upload(string,string,writemode,bool,bool,string)

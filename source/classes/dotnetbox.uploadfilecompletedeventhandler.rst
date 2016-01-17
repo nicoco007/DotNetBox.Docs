@@ -3,7 +3,7 @@
 :index:`UploadFileCompletedEventHandler Delegate (UploadFileCompletedEventArgs)`
 ================================================================================
 
-Delegate used for the :doc:`UploadFileCompleted </events/dotnetbox.subapis.files.uploadfilecompleted>`  event.
+Delegate used for the UploadFileCompleted event.
 
 Syntax
 ------
